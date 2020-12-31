@@ -26,7 +26,7 @@
 		<a target="_blank" href="https://www.linkedin.com/in/hamed-abdolrazagh-a1947715b" style="text-decoration: none">
 		Linkdin</a><br>	
 		Facebook<br>Skype<br>Duo<br>Zoom
-	<tr>
-		<td colspan="3" style="padding:2px; border:1px solid #333333; " dir="rtl" bgcolor="#000000">
-		<p align="center">&nbsp;</td>
+	        <tr>
+		<td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="center" colspan="3">
+		&nbsp;</tr>
 	
