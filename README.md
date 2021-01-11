@@ -11,7 +11,7 @@
 <img border="0" src="Hamed.jpeg" width="200" height="200">
 <td align="left" width="500" height="197" dir="ltr" style="border:1px solid #333333; padding:2px; " bgcolor="#000000">
 
-<br>حامد عبدالرزاق<br>
+<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><br>
 	
 <a href="https://github.com/hamed-abd">GitHub Profile</a><br>
 <a href="https://hamed-abd.github.io/Resume">Resume</a><br>
