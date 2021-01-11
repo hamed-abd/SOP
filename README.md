@@ -17,14 +17,16 @@
 - [Certificates](https://hamed-abd.github.io/Certificates)
 - [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations)
 
-<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="rtl" bgcolor="#000000">
+<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="ltr" bgcolor="#000000">
 
--[Engish](#En)<br>
--[فارسی](#Fa)
+[Engish](#En)<br>
+[فارسی](#Fa)
 
 <tr>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a>
+	<br>
+	<br>
 We are currently in the midst of a technological and computing revolution that will drastically change our lives and potentially redefine what it means to be human. I am very excited at the prospect of devoting my long-term career to such a dynamic, fast advancing field. Ever since I was young, I have enjoyed dabbling with computers and experimenting with different applications. Because my own lifetime has essentially coincided with the rise of the modern computing industry, I can sense that there are still tremendous developments to come in this field. It was natural for me to choose Computer Science as my university major, and now, as I near the end of my undergraduate studies, it is my central goal to continue my education in a more competitive, elite, and international environment.
 <br>
 There is only one logical destination for my postgraduate studies: the USA, a country which stands at the center of the computing universe. The US has been the chief driver of innovation in computing, and the most innovative and successful companies in this field are based there. Studying overseas in the US will thus give me not only a greater range of professional skills but also a much broader, more international perspective. Therefore, I am applying to join your MSc in Computer Science program.
@@ -42,8 +44,12 @@ Regarding my goals for the future, I plan to take what I learn in the USA and ap
 <br>
 <br>
 <tr>
+	<br>
+	<br>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="rtl" valign="top">
 <a name="Fa"></a>
+	<br>
+	<br>
 ما در حال حاضر درگیر یک انقلاب فناوری و محاسباتی هستیم که زندگی ما را به شدت تغییر می دهد و معنای انسان بودن را دوباره تعریف می کند. من از اینکه می خواهم کار طولانی مدت خود را به چنین زمینه ای پویا و سریع پیشرفت کنم ، بسیار هیجان زده هستم. از زمانی که جوان بودم ، از برقراری ارتباط با کامپیوتر و آزمایش برنامه های مختلف لذت می بردم. از آنجا که عمر من در اصل با ظهور صنعت مدرن محاسبات همزمان بوده است ، می توانم احساس کنم که هنوز پیشرفت های عظیمی در این زمینه وجود دارد. برای من طبیعی بود که علوم کامپیوتر را به عنوان رشته دانشگاهی خود انتخاب کنم و اکنون ، در حالی که نزدیک به پایان دوره کارشناسی خود هستم ، هدف اصلی من ادامه تحصیل در یک فضای رقابتی ، نخبه و بین المللی است.
 <br>
 	برای تحصیلات تکمیلی من فقط یک مقصد منطقی وجود دارد: ایالات متحده آمریکا ، کشوری که در مرکز جهان رایانه قرار دارد. ایالات متحده عامل اصلی نوآوری در محاسبات بوده است و ابتکاری ترین و موفق ترین شرکت ها در این زمینه در آن مستقر هستند. بنابراین تحصیل در خارج از کشور در ایالات متحده نه تنها طیف وسیعی از مهارت های حرفه ای بلکه همچنین چشم انداز بسیار گسترده تر و بین المللی بیشتری به من می دهد. بنابراین ، من متقاضی کارشناسی ارشد شما در برنامه علوم کامپیوتر هستم. من متقاعد شده ام که بخاطر سابقه علمی و عملی گسترده ای که دارم ، برای چالش های تحصیل در دوره کارشناسی ارشد شما آماده ام در زیر با جزئیات توضیح دهید
