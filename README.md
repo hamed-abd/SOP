@@ -16,9 +16,9 @@
 <a href="https://hamed-abd.github.io/Resume">Resume</a><br>
 <a href="https://hamed-abd.github.io/Certificates">Certificates</a><br>
 <a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">Articles and Translations</a><br>
-<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="ltr" bgcolor="#000000">
+<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="ltr" bgcolor="#000000"><br>
 <a href="#En">Engish</a><br>
-<a href="#Fa">فارسی</a>
+<a href="#Fa">فارسی</a><br>
 <tr>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a>
