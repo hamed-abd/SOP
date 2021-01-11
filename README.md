@@ -11,15 +11,20 @@
 <img border="0" src="Hamed.jpeg" width="200" height="200">
 <td align="left" width="500" height="197" dir="ltr" style="border:1px solid #333333; padding:2px; " bgcolor="#000000">
 
-<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><br>
+<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p><br>
 	
-<a href="https://github.com/hamed-abd">GitHub Profile</a><br>
-<a href="https://hamed-abd.github.io/Resume">Resume</a><br>
-<a href="https://hamed-abd.github.io/Certificates">Certificates</a><br>
-<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">Articles and Translations</a><br>
+<a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub Profile</font></a><font color="#FFFF00"><br>
+</font>
+<a href="https://hamed-abd.github.io/Resume"><font color="#FFFF00">Resume</font></a><font color="#FFFF00"><br>
+</font>
+<a href="https://hamed-abd.github.io/Certificates"><font color="#FFFF00">Certificates</font></a><font color="#FFFF00"><br>
+</font>
+<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">
+<font color="#FFFF00">Articles and Translations</font></a><br>
 <td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="ltr" bgcolor="#000000"><br>
-<a href="#En">Engish</a><br>
-<a href="#Fa">فارسی</a><br>
+<a href="#En"><font color="#FFFF00">Engish</font></a><font color="#FFFF00"><br>
+</font>
+<a href="#Fa"><font color="#FFFF00">فارسی</font></a><br>
 <tr>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a>
