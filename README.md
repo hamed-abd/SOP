@@ -25,6 +25,7 @@
 <tr>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a>
+## Statement of Purpose
 	<br>
 	<br>
 We are currently in the midst of a technological and computing revolution that will drastically change our lives and potentially redefine what it means to be human. I am very excited at the prospect of devoting my long-term career to such a dynamic, fast advancing field. Ever since I was young, I have enjoyed dabbling with computers and experimenting with different applications. Because my own lifetime has essentially coincided with the rise of the modern computing industry, I can sense that there are still tremendous developments to come in this field. It was natural for me to choose Computer Science as my university major, and now, as I near the end of my undergraduate studies, it is my central goal to continue my education in a more competitive, elite, and international environment.
