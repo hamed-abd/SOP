@@ -2,6 +2,7 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
 </head>
+<body bgcolor="#000000">
 <div align="center">
 <table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 10pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="#000000">
 <tr>
@@ -10,7 +11,7 @@
 <img border="0" src="Hamed.jpeg" width="200" height="200">
 <td align="left" width="500" height="197" dir="ltr" style="border:1px solid #333333; padding:2px; " bgcolor="#000000">
 
-# حامد عبدالرزاق
+<br>حامد عبدالرزاق<br>
 	
 <a href="https://github.com/hamed-abd">GitHub Profile</a><br>
 <a href="https://hamed-abd.github.io/Resume">Resume</a><br>
