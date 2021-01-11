@@ -12,16 +12,13 @@
 
 # حامد عبدالرزاق
 	
-- [GitHub Profile](https://github.com/hamed-abd)
-- [Resume](https://hamed-abd.github.io/Resume) 
-- [Certificates](https://hamed-abd.github.io/Certificates)
-- [Articles and Translations](https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations)
-
+<a href="https://github.com/hamed-abd">GitHub Profile</a>
+<a href="https://hamed-abd.github.io/Resume">Resume</a>
+<a href="https://hamed-abd.github.io/Certificates">Certificates</a>
+<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">Articles and Translations</a>
 <td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="197" dir="ltr" bgcolor="#000000">
-
-[Engish](#En)<br>
-[فارسی](#Fa)
-
+<a href="#En>Engish</a>
+<a href="#Fa>فارسی</a>
 <tr>
 <td style="border:1px solid #333333; padding:2px; " bgcolor="#000000" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a>
