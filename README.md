@@ -10,7 +10,6 @@
 <p align="center">
 <img border="0" src="Hamed.jpeg" width="200" height="200">
 <td align="left" width="500" height="200" dir="ltr" style="border:1px solid #333333; padding:2px; " bgcolor="# 111111">
-<blockquote>
 	<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
 	<br><a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub 
 	Profile</font></a><font color="#FFFF00"><br></font>
@@ -20,7 +19,6 @@
 	</font>
 	<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">
 	<font color="#FFFF00">Articles and Translations</font></a><br>
-
 <td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="200" dir="ltr" bgcolor="# 111111"><br>
 <a href="#En"><font color="#FFFF00">Engish</font></a><font color="#FFFF00"><br>
 </font>
