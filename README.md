@@ -44,7 +44,7 @@ international perspective. Therefore, I am applying to join your MSc in Computer
 Science program.
 <br>
 Nineteen years of experience in software development and 15 years of 
-professional background in medical IT and DBA, Also activity in HIS Software R&amp;D 
+professional background in medical IT and DBA, Also activity in HIS Software R&D 
 department are some of my experience during these years. I am convinced that I 
 am well prepared for the challenges of studying in your master’s program because 
 of my extensive academic and practical background, which I will describe in 
@@ -80,13 +80,9 @@ a short period in the USA, I expect to have the expertise, perspective, and
 experience to lead our industry to a new era. I also have many friends with 
 similar goals, and I hope that we can one day collaborate to put our country on 
 the map as an innovative force in the computing world.
-<br>
-<br>
 <tr>
 <td style="border:1px solid #333333; padding:20px; " bgcolor="#111111" align="justify" colspan="3" dir="rtl" valign="top">
-<a name="Fa"></a>
-	
-<br><b><font size="5" face="Times New Roman">انگیزه نامه</font></b><p>ما در حال حاضر 
+<a name="Fa"></a><b><font size="5" face="Times New Roman">انگیزه نامه</font></b><p>ما در حال حاضر 
 درگیر یک انقلاب فناوری و محاسباتی هستیم که زندگی ما را به شدت تغییر می دهد و 
 معنای انسان بودن را دوباره تعریف می کند. و من از اینکه می خواهم با کار طولانی 
 مدت در چنین زمینه پویایی پیشرفت کنم ، بسیار هیجان زده هستم. از زمانی که جوان 
