@@ -7,10 +7,8 @@
 <table border="1" width="900" style="border: 1px solid #333333" dir="rtl">
 	<tr>
 		<td width="200" style="border: 1px solid #333333; padding: 20px; text-indent:0; line-height:150%" bgcolor="#111111" height="200" align="center">
-		
 		<a href="#En" style="text-decoration: none"><font color="#FFFF00">Engish</font></a><br>
 		<a href="#Fa" style="text-decoration: none"><font color="#FFFF00">فارسی</font></a><br>
-
 		<td style="border: 1px solid #333333; padding: 20px" align="left" valign="top" bgcolor="#111111" height="200">
 		<b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
 		<a href="https://github.com/hamed-abd" style="text-decoration: none"><font color="#FFFF00">
