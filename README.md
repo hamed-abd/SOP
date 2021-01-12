@@ -2,32 +2,6 @@
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <meta http-equiv="Content-Language" content="fa">
 </head>
-<body bgcolor="# 111111">
-<div align="center">
-<table border="0" width="900" dir="rtl" style="font-family: Tahoma; font-size: 11pt; border: 1px solid #333333; ; color:#FFFFFF" bgcolor="# 111111">
-<tr>
-<td style="border:1px solid #333333; padding:0px; " bgcolor="# 111111" align="center" width="200" height="200">
-<p align="center">
-<img border="0" src="Hamed.jpeg" width="200" height="200">
-<td align="left" width="500" height="200" dir="ltr" style="border:1px solid #333333; padding:2px; " bgcolor="# 111111">
-	<br><b><font face="Times New Roman" size="6">Hamed Abdolrazagh</font></b><p>
-	<br><a href="https://github.com/hamed-abd"><font color="#FFFF00">GitHub 
-	Profile</font></a><font color="#FFFF00"><br></font>
-	<a href="https://hamed-abd.github.io/Resume"><font color="#FFFF00">Resume</font></a><font color="#FFFF00"><br>
-	</font><a href="https://hamed-abd.github.io/Certificates">
-	<font color="#FFFF00">Certificates</font></a><font color="#FFFF00"><br>
-	</font>
-	<a href="https://github.com/hamed-abd/PNU_3991_AR/tree/main/Articles-And-Translations">
-	<font color="#FFFF00">Articles and Translations</font></a><br>
-<td width="210" align="center" style="padding:2px; border:1px solid #333333; " height="200" dir="ltr" bgcolor="# 111111"><br>
-<a href="#En"><font color="#FFFF00">Engish</font></a><font color="#FFFF00"><br>
-</font>
-<a href="#Fa"><font color="#FFFF00">فارسی</font></a><br>
-<tr>
-<head>
-<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<meta http-equiv="Content-Language" content="fa">
-</head>
 <body topmargin="5" leftmargin="5" rightmargin="5" bottommargin="5" marginwidth="5" marginheight="5" style="font-family: Tahoma; font-size: 10pt; color: #EEEEEE; border: 1px solid #333333; padding-left: 4px; padding-right: 4px; padding-top: 1px; padding-bottom: 1px; background-color: #111111" link="#FFFF00" vlink="#FFFF00" alink="#FFFF00">
 <div align="center">
 <table border="1" width="900" style="border: 1px solid #333333" dir="rtl">
@@ -50,7 +24,7 @@
 		<td width="200" height="200" style="border: 1px solid #333333; padding: 0" bgcolor="#111111">
 		<p align="center"><img border="0" src="Hamed.jpeg">
 	<tr>
-		<td style="border:1px solid #333333; padding:20px; " bgcolor="# 111111" align="justify" colspan="3" dir="ltr" valign="top">
+		<td style="border:1px solid #333333; padding:20px; " bgcolor="#111111" align="justify" colspan="3" dir="ltr" valign="top">
 <a name="En"></a><b><font face="Times New Roman" size="5">Statement of Purpose</font></b><p>
 We are currently in the midst of a technological and computing revolution that 
 will drastically change our lives and potentially redefine what it means to be 
@@ -113,7 +87,7 @@ the map as an innovative force in the computing world.
 <tr>
 	<br>
 	<br>
-<td style="border:1px solid #333333; padding:20px; " bgcolor="# 111111" align="justify" colspan="3" dir="rtl" valign="top">
+<td style="border:1px solid #333333; padding:20px; " bgcolor="#111111" align="justify" colspan="3" dir="rtl" valign="top">
 <a name="Fa"></a>
 	
 <b><font size="5" face="Times New Roman">انگیزه نامه</font></b><p>ما در حال حاضر 
