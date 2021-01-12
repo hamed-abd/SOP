@@ -83,12 +83,10 @@ the map as an innovative force in the computing world.
 <br>
 <br>
 <tr>
-	<br>
-	<br>
 <td style="border:1px solid #333333; padding:20px; " bgcolor="#111111" align="justify" colspan="3" dir="rtl" valign="top">
 <a name="Fa"></a>
 	
-<b><font size="5" face="Times New Roman">انگیزه نامه</font></b><p>ما در حال حاضر 
+<br><b><font size="5" face="Times New Roman">انگیزه نامه</font></b><p>ما در حال حاضر 
 درگیر یک انقلاب فناوری و محاسباتی هستیم که زندگی ما را به شدت تغییر می دهد و 
 معنای انسان بودن را دوباره تعریف می کند. و من از اینکه می خواهم با کار طولانی 
 مدت در چنین زمینه پویایی پیشرفت کنم ، بسیار هیجان زده هستم. از زمانی که جوان 
